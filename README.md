@@ -1,8 +1,8 @@
-# Replicating Network Architecture for a Government-Owned Energy Company
+# Replicating Network Architecture for an Energy Company
 
 ## Project Overview
 
-This project focuses on replicating the real-world enterprise network architecture of a government-owned energy company using EVE-NG (Emulated Virtual Environment – Next Generation).
+This project focuses on replicating the real-world enterprise network architecture of an energy company using EVE-NG (Emulated Virtual Environment – Next Generation).
 
 The lab simulates a production-grade corporate infrastructure including ISP connectivity, firewall redundancy, core switching, distribution layers, and end-user networks.
 
